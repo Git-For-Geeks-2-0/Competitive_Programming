@@ -91,7 +91,3 @@ For your PR to count, it must be:
 
 ---
 
-## Contributors
-<a href="https://github.com/Git-For-Geeks/DATA-STRUCTURES-AND-ALGORITHMS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Git-For-Geeks/DATA-STRUCTURES-AND-ALGORITHMS" />
-</a>
